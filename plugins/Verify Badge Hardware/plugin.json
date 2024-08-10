@@ -1,0 +1,11 @@
+{
+    "id": "my-custom-events",
+    "name": "My Custom Events",
+    "version": "1.0.0",
+    "events": [
+      "EVENT_VERIFY_BADGE_HARDWARE",
+      "EVENT_CUSTOM_SET_VARIABLE",
+      "EVENT_READ_IMU"
+    ]
+  }
+  
