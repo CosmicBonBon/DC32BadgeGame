@@ -25,3 +25,6 @@ DEFCON 32 Badge Game
 #Usage in your own projects
 
   Remix it to hell, Make ROM hacks, I do not care!
+
+#Thanks
+  I wanna thank Mar Williams, DEFCON, Nutmeg, Tut for being on the Catball Farms team, Chris Maltby for creating this incredible engine, Robert Doman, Pixel Pete for tutorials and helping me to wrap my brain around using      any of this, AA Studio for some killer plugins, Elvies, Reakain, Aaaaron for some amazing assets and the amazing itch.io community for all the help and knowledge to make this game happen.
